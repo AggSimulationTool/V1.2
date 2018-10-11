@@ -1,7 +1,7 @@
 # AggSimulationTool v1.2
 The AggSimulationTool has been implemented in Java to evaluate the following data-aggregation solutions: (i) Two-Tier Aggregation for Multi-target Applications (TTAMA); (ii) Data Aggregation for Multiple Groups (DAMiG) Minimum Spanning Tree (DAMiG-MST); (iii) DAMiG Shortest Path Tree (DAMiG-SPT); (iv) DAMiG selecting the parent with highest level of residual energy (DAMiG-MaxEnergy); and (v) Energy Efficient Spanning tRee (EESR).
 
-#RUNNING THE JAR
+# RUNNING THE JAR
 - Firstly, you have to verify that java is running correctly in your computer.
 - Simply, execute in terminal this command: ```java -jar agg.jar```
 - In the GUI you can set your simulation.
@@ -10,7 +10,7 @@ The AggSimulationTool has been implemented in Java to evaluate the following dat
 ![alt tag](https://github.com/AggSimulationTool/v1.2/blob/master/GUI2-ScreenShot.png)
 
 
-#RUNNING FROM THE SOURCE CODE
+# RUNNING FROM THE SOURCE CODE
 ## Installation
 - This is a Java project that can be imported to Eclipse or Netbeans. To do so, you must follow the default procedure to import a Java project in Eclipse or Netbeans.
 
